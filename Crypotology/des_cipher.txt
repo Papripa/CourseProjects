@@ -1,0 +1,6 @@
+
+test1加密正确性验证实验结果:
+cipher_ECB:958920b1358ef1972b9ee4548dc08e8a
+cipher_CBC:5eb15b91506b9ae7ceb65954ae115e03
+cipher_CFB:f70f01584acf4d966adc143eb240c962
+cipher_OFB:f7b0ffcdc0b9bba76092b929d769417a

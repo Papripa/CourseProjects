@@ -1,0 +1,12 @@
+average decode_ECB speed is 3.8143122698459293KB/S 
+the average cost of time is 0.5486237168312073S
+
+average decode_CBC speed is 3.9338058897234243KB/S
+the average cost of time is 0.5148711681365967S
+
+average decode_CFB speed is 0.5198166140630975KB/S
+the average cost of time is 3.8830175518989565S
+
+average decode_OFB speed is 0.5141297864550239KB/S
+the average cost of time is 3.932143712043762S
+

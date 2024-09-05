@@ -1,0 +1,12 @@
+average cipher_ECB speed is 3.7252469750913626KB/S 
+the average cost of time is 0.5429227113723755S
+
+average cipher_CBC speed is 3.6535067342724417KB/S
+the average cost of time is 0.5714557766914368S
+
+average cipher_CFB speed is 0.4830113122503995KB/S
+the average cost of time is 4.17030656337738S
+
+average cipher_OFB speed is 0.4719573097731316KB/S
+the average cost of time is 4.3502339124679565S
+
